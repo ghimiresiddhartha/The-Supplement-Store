@@ -1,6 +1,8 @@
 # The-Supplement-Store
-This is an incomplete project which is still being done in android studio. Firebase has been   
-implemented on this project to store the user's email and password. Blur kit library has been used to blur the background image. Similarly, Awesome validation library has been used to validate the text field and so on.
+This is an incomplete project which is still being done in android studio. Firebase has been 
+implemented on this project to store the user's email and password. Blur kit library has been 
+used to blur the background image. Similarly, Awesome validation library has been used to 
+validate the text field and so on.
 
 ![1](https://user-images.githubusercontent.com/87683353/126904382-cfb48cf5-d3cc-41d5-93f5-197cf94c4b34.jpg)
 ![2](https://user-images.githubusercontent.com/87683353/126904384-2973b793-0881-44e6-8394-18d3edf6d60e.jpg)
