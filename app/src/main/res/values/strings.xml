@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">supplimentstore</string>
+
+    <string name="nameerror">*Please enter a valid Name.</string>
+    <string name="emailerror">*Please enter a valid Email.</string>
+    <string name="confirm_email_error">*Email does not match.</string>
+    <string name="phoneerror">*Please enter a valid Phone.</string>
+    <string name="passworderror">*Please enter a valid Password </string>
+    <string name="confirm_password_error">*Password does not match.</string>
+    <string name="ageerror">*Age must be between 21 to 60.</string>
+
+    <string name="activity_prompt">Choose a activity</string>
+
+
+    <string-array name="activity_arrays">
+        <item>Basal Metabolic Rate (BMR)</item>
+        <item>Sedentary: little or no exercise</item>
+        <item>Light: exercise 1-3 timee/week</item>
+        <item>Moderate: erercise 4-5 times/week</item>
+        <item>Active: daily exercise or intense exercise 3-4 times/week</item>
+        <item>Very Active: intense exercise 6-7 times/week</item>
+        <item>Extra Active: very intense exercise daily, or physical job</item>
+    </string-array>
+</resources>
